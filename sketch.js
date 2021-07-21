@@ -4,7 +4,7 @@ function setup() {
 }
 
 function draw() {
-  save("mySVG.svg");
-  print("saved svg");
-  noLoop();
+  // save("mySVG.svg");
+  // print("saved svg");
+  // noLoop();
 }
